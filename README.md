@@ -39,7 +39,6 @@ gp.scatter(x,y,color='red')
 gp.plot(x,y_pred,color="green")
 gp.show()
 ```
-
 ## Output
 ![image](https://github.com/Yeshwanthperumal/Univariate-Linear-Regression/assets/119476088/4e07f4ad-40e3-425e-9606-227dfc0a800f)
 
