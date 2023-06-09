@@ -43,4 +43,4 @@ gp.show()
 ![image](https://github.com/Yeshwanthperumal/Univariate-Linear-Regression/assets/119476088/4e07f4ad-40e3-425e-9606-227dfc0a800f)
 
 ## Result
-Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
+Thus the univariate Linear Regression was implemented to fit a straight line using least squares. 
